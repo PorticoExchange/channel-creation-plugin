@@ -1,6 +1,6 @@
-# Boltz Channel Creation Plugin
+# Portico Channel Creation Plugin
 
-This is a c-lightning plugin for Boltz Channel Creation Swaps
+This is a c-lightning plugin for Portico Channel Creation Swaps
 
 ## Installation
 
